@@ -1,0 +1,1 @@
+export default () => <h1>LWRY :: Admin website Next.js</h1>
